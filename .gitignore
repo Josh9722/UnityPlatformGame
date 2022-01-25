@@ -64,3 +64,4 @@ UnityPlatform/UserSettings/**
 UnityPlatform/Packages/**
 UnityPlatform/Logs/**
 UnityPlatform/Library/**
+UnityPlatform/Library/ArtifactDB
