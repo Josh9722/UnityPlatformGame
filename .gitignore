@@ -67,3 +67,10 @@ PlatformGame/Library/**
 
 PlatformGame/Library/EditorInstance.json
 PlatformGame/Library/EditorInstance.json
+UnityPlatform/Library/ArtifactDB
+UnityPlatform/Library/EditorInstance.json
+UnityPlatform/Library/SceneVisibilityState.asset
+UnityPlatform/Library/SourceAssetDB
+UnityPlatform/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+UnityPlatform/Temp/UnityLockfile
+UnityPlatform/Temp/workerlic
