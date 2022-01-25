@@ -59,3 +59,9 @@ sysinfo.txt
 crashlytics-build.properties
 
 PlatformGame/Temp/UnityLockfile
+PlatformGame/Temp
+PlatformGame/UserSettings
+PlatformGame/Packages
+PlatformGame/Logs
+PlatformGame/Library
+
