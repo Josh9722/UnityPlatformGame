@@ -58,19 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-PlatformGame/Temp/UnityLockfile
-PlatformGame/Temp/**
-PlatformGame/UserSettings/**
-PlatformGame/Packages/**
-PlatformGame/Logs/**
-PlatformGame/Library/**
-
-PlatformGame/Library/EditorInstance.json
-PlatformGame/Library/EditorInstance.json
-UnityPlatform/Library/ArtifactDB
-UnityPlatform/Library/EditorInstance.json
-UnityPlatform/Library/SceneVisibilityState.asset
-UnityPlatform/Library/SourceAssetDB
-UnityPlatform/Logs/shadercompiler-UnityShaderCompiler.exe0.log
 UnityPlatform/Temp/UnityLockfile
-UnityPlatform/Temp/workerlic
+UnityPlatform/Temp/**
+UnityPlatform/UserSettings/**
+UnityPlatform/Packages/**
+UnityPlatform/Logs/**
+UnityPlatform/Library/**
